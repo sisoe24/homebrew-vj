@@ -1,6 +1,13 @@
-# VDMX VJ
+# VJ Softwares
 
-Homebrew Tap for VJ related mac softwares.
+Homebrew taps for VJ related macOS softwares.
+
+## Taps
+
+- `vdmx`: [VDMX5](https://vdmx.vidvox.net)
+- `vezer`: [Vezer](https://imimot.com/vezer/)
+- `lumen-synth`: [Lumen](https://lumen-app.com)
+- `syphon-simple`: [Syphon](https://github.com/Syphon/Simple)
 
 ## How to use
 
@@ -11,10 +18,3 @@ Or `brew tap sisoe24/vj` and then `brew install vdmx`.
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
-
-## TODO
-
-- [x] [VDMX5](https://vdmx.vidvox.net)
-- [x] [Vezer](https://imimot.com/vezer/)
-- [ ] [Lumen](https://lumen-app.com)
-- [ ] [Syphon](https://github.com/Syphon/Simple)
