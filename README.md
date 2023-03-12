@@ -39,4 +39,4 @@ to have many more users than VDMX to make any difference.
 
 ## Contributing
 
-Feel free to add a tap for an app you use or suggest a new one. You can also contribute by only incrementing the application versions when a new update is out.
+Feel free to add a cask for an app you use or suggest a new one. You can also contribute by only incrementing the application versions when a new update is out.
