@@ -15,6 +15,6 @@ Or `brew tap sisoe24/vj` and then `brew install vdmx`.
 ## TODO
 
 - [x] [VDMX5](https://vdmx.vidvox.net)
-- [ ] [Vezer](https://imimot.com/vezer/)
+- [x] [Vezer](https://imimot.com/vezer/)
 - [ ] [Lumen](https://lumen-app.com)
-
+- [ ] [Syphon](https://github.com/Syphon/Simple)
