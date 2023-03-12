@@ -3,6 +3,7 @@ cask "lumen-synth" do
   sha256 :no_check
 
   url "https://updates.paracosm.us/lumen/stable/download"
+    verifed: "https://lumen-app.com"
   name "Lumen"
   desc "Analog-Style Software Video Synthesizer"
   homepage "https://lumen-app.com/"
