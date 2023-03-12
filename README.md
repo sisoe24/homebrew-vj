@@ -31,7 +31,9 @@ Feel free to add a tap for an app you use or suggest a new one. You can also con
 
 ## Notes
 
-- When installing `vdmx`, the tap will automatically install the Extra content inside the dmg folder.
+- When installing `vdmx`, the tap automatically installs the Extra content inside
+the dmg folder and places the applications inside **/Applications/VDMX Extras**.
+However, it will not install the ISFEditor due to an error.
 
 ## Why a third-party tap
 
