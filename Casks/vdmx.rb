@@ -33,4 +33,3 @@ cask "vdmx" do
     "/Applications/VDMX Extras",
   ]
 end
-
