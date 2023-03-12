@@ -1,4 +1,4 @@
-# Sisoe24 VJ
+# VDMX VJ
 
 Homebrew Tap for VDMX
 
