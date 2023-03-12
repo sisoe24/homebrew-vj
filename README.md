@@ -1,10 +1,12 @@
 # Sisoe24 VJ
 
-## How do I install these formulae?
+Homebrew Tap for VDMX
 
-`brew install sisoe24/vj/<formula>`
+## How to use
 
-Or `brew tap sisoe24/vj` and then `brew install <formula>`.
+`brew install sisoe24/vj/vdmx`
+
+Or `brew tap sisoe24/vj` and then `brew install vdmx`.
 
 ## Documentation
 
