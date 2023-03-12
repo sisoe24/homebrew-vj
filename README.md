@@ -21,14 +21,6 @@ Homebrew taps for VJ related macOS softwares.
 
 Or `brew tap sisoe24/vj` and then `brew install vdmx`.
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
-
-## Contributing
-
-Feel free to add a tap for an app you use or suggest a new one. You can also contribute by only incrementing the application versions when a new update is out.
-
 ## Notes
 
 - When installing `vdmx`, the tap automatically installs the Extra content inside
@@ -40,3 +32,11 @@ However, it will not install the ISFEditor due to an error.
 VDMX, for example, was already added long ago and removed due to inactivity, 
 so it is unlikely they will accept it again. Other apps in this repo are unlikely
 to have many more users than VDMX to make any difference.
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+## Contributing
+
+Feel free to add a tap for an app you use or suggest a new one. You can also contribute by only incrementing the application versions when a new update is out.
