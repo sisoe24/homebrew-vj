@@ -1,6 +1,6 @@
 cask "vezer" do
-  version "1.9.1"
-  sha256 :no_check
+  version "1.9.6_776v2"
+  sha256 "8466a6def2f2b752bbd225b2279f22347105fe5783fc73659876229f482b3505"
 
   url "https://imimot.com/versions/download.php?product=vezer&format=dmg"
   name "Vezer"
