@@ -1,6 +1,6 @@
 cask "lumen-synth" do
   version "1.1.2"
-  sha256 :no_check
+  sha256 "76b1e04d1dbfbdfc1c183219a2f175da698b56d7b5a4e1e32fa62ff92698848f"
 
   url "https://updates.paracosm.us/lumen/stable/download",
       verified: "paracosm.us/lumen"
