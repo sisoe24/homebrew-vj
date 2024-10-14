@@ -1,6 +1,6 @@
 cask "syphon-simple" do
   version "5.0.0"
-  sha256 :no_check
+  sha256 "cc36d06f47c57cc13569456e1b5cf012fcc1160b2efa12a2a7cd1eb0e036cd42"
 
   url "https://github.com/Syphon/Simple/releases/download/5/Syphon.Simple.Apps.zip"
   name "Syphon Simple"
