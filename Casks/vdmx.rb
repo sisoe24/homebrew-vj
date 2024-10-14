@@ -12,7 +12,16 @@ cask "vdmx" do
   pkg "VDMX6 Installer.pkg"
   pkg "Extras/v002 QC Software.pkg"
 
-  artifact "Extras", target: "/Applications/VDMX Extras"
+  postflight do
+    extras_source = "#{staged_path}/Extras"
+    extras_target = "/Applications/VDMX Extras"
+
+    unless File.exist?(extras_target)
+      system_command "/bin/cp",
+                     args: ["-R", extras_source, extras_target],
+                     sudo: true
+    end
+  end
 
   uninstall pkgutil: [
     "com.vidvox.pkg.VDMX6Installer",
