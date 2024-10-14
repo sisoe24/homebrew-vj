@@ -9,16 +9,10 @@ cask "vdmx" do
 
   depends_on macos: ">= :high_sierra"
 
-  app "Extras/OSCQuery Browser.app", target: "/Applications/VDMX Extras/OSCQuery Browser.app"
-  app "Extras/OSCQuery Helper.app", target: "/Applications/VDMX Extras/OSCQuery Helper.app"
-  app "Extras/MIDI OSCQuery Helper.app", target: "/Applications/VDMX Extras/MIDI OSCQuery Helper.app"
-  app "Extras/AVF Batch Converter.app", target: "/Applications/VDMX Extras/AVF Batch Converter.app"
-  app "Extras/Vuo Extras", target: "/Applications/VDMX Extras/Vuo Extras"
-  app "Extras/ISF Extras", target: "/Applications/VDMX Extras/ISF Extras"
-  app "Extras/TouchDesigner Extras", target: "/Applications/VDMX Extras/TouchDesigner Extras"
-  app "Extras/ISFEditor_installer_2.9.15.app", target: "/Applications/VDMX Extras/ISFEditor_installer_2.9.15.app"
-  pkg "Extras/v002 QC Software.pkg"
   pkg "VDMX6 Installer.pkg"
+  pkg "Extras/v002 QC Software.pkg"
+
+  artifact "Extras", target: "/Applications/VDMX Extras"
 
   uninstall pkgutil: [
     "com.vidvox.pkg.VDMX6Installer",
