@@ -5,7 +5,7 @@ Homebrew taps for VJ related macOS softwares.
 ## Taps
 
 - `vdmx`, `vdmx-plus`
-  - [VDMX5](https://vdmx.vidvox.net) - Professional VJ Software.
+  - [VDMX6](https://vdmx.vidvox.net) - Professional VJ Software.
 - `vezer`
   - [Vezer](https://imimot.com/vezer/) - Timeline based MIDI/OSC/DMX sequencer for audiovisual artists.
 - `mitti` 
